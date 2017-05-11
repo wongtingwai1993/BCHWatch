@@ -1,0 +1,7 @@
+7.3 fix
+---------
+1. Change the double click on gridview and cancel will return to home page
+2. change the remark can be fill in when return watch.
+3. need to include remark when printing
+4. allow to add in company when outsource
+5. second phone number is recorded

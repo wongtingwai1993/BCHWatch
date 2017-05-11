@@ -1,0 +1,13 @@
+D:\watchMaintenanceSystem\trunk\SchedulerConsole\bin\Debug\SchedulerConsole.exe.config
+D:\watchMaintenanceSystem\trunk\SchedulerConsole\bin\Debug\SchedulerConsole.exe
+D:\watchMaintenanceSystem\trunk\SchedulerConsole\bin\Debug\SchedulerConsole.pdb
+D:\watchMaintenanceSystem\trunk\SchedulerConsole\bin\Debug\SchedulerConsole.xml
+D:\watchMaintenanceSystem\trunk\SchedulerConsole\bin\Debug\MySql.Data.dll
+D:\watchMaintenanceSystem\trunk\SchedulerConsole\bin\Debug\MySql.Data.xml
+D:\watchMaintenanceSystem\trunk\SchedulerConsole\obj\Debug\SchedulerConsole.vbprojResolveAssemblyReference.cache
+D:\watchMaintenanceSystem\trunk\SchedulerConsole\obj\Debug\SchedulerConsole.vbproj.ResolveComReference.cache
+D:\watchMaintenanceSystem\trunk\SchedulerConsole\obj\Debug\SchedulerConsole.Resources.resources
+D:\watchMaintenanceSystem\trunk\SchedulerConsole\obj\Debug\SchedulerConsole.vbproj.GenerateResource.Cache
+D:\watchMaintenanceSystem\trunk\SchedulerConsole\obj\Debug\SchedulerConsole.exe
+D:\watchMaintenanceSystem\trunk\SchedulerConsole\obj\Debug\SchedulerConsole.xml
+D:\watchMaintenanceSystem\trunk\SchedulerConsole\obj\Debug\SchedulerConsole.pdb

@@ -1,0 +1,240 @@
+C:\Users\Wayco\Documents\Visual Studio 2008\Projects\WatchMaintenanceSystem\WatchMaintenanceSystem\bin\Debug\WatchMaintenanceSystem.exe
+C:\Users\Wayco\Documents\Visual Studio 2008\Projects\WatchMaintenanceSystem\WatchMaintenanceSystem\bin\Debug\WatchMaintenanceSystem.pdb
+C:\Users\Wayco\Documents\Visual Studio 2008\Projects\WatchMaintenanceSystem\WatchMaintenanceSystem\bin\Debug\WatchMaintenanceSystem.xml
+C:\Users\Wayco\Documents\Visual Studio 2008\Projects\WatchMaintenanceSystem\WatchMaintenanceSystem\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Wayco\Documents\Visual Studio 2008\Projects\WatchMaintenanceSystem\WatchMaintenanceSystem\obj\Debug\WatchMaintenanceSystem.Resources.resources
+C:\Users\Wayco\Documents\Visual Studio 2008\Projects\WatchMaintenanceSystem\WatchMaintenanceSystem\obj\Debug\WatchMaintenanceSystem.vbproj.GenerateResource.Cache
+C:\Users\Wayco\Documents\Visual Studio 2008\Projects\WatchMaintenanceSystem\WatchMaintenanceSystem\obj\Debug\WatchMaintenanceSystem.exe
+C:\Users\Wayco\Documents\Visual Studio 2008\Projects\WatchMaintenanceSystem\WatchMaintenanceSystem\obj\Debug\WatchMaintenanceSystem.xml
+C:\Users\Wayco\Documents\Visual Studio 2008\Projects\WatchMaintenanceSystem\WatchMaintenanceSystem\obj\Debug\WatchMaintenanceSystem.pdb
+C:\Users\Wayco\Documents\Visual Studio 2008\Projects\WatchMaintenanceSystem\WatchMaintenanceSystem\obj\Debug\WatchMaintenanceSystem.Homepage.resources
+C:\Users\Wayco\Documents\Visual Studio 2008\Projects\WatchMaintenanceSystem\WatchMaintenanceSystem\obj\Debug\WatchMaintenanceSystem.AddNewInvoice.resources
+C:\Users\Wayco\Documents\Visual Studio 2008\Projects\WatchMaintenanceSystem\WatchMaintenanceSystem\obj\Debug\WatchMaintenanceSystem.Workshop.resources
+C:\Users\Wayco\Documents\Visual Studio 2008\Projects\WatchMaintenanceSystem\WatchMaintenanceSystem\obj\Debug\WatchMaintenanceSystem.WorkshopDetail.resources
+C:\Users\Wayco\Documents\Visual Studio 2008\Projects\WatchMaintenanceSystem v3\WatchMaintenanceSystem\obj\Debug\WatchMaintenanceSystem.exe
+C:\Users\Wayco\Documents\Visual Studio 2008\Projects\WatchMaintenanceSystem v3\WatchMaintenanceSystem\obj\Debug\WatchMaintenanceSystem.xml
+C:\Users\Wayco\Documents\Visual Studio 2008\Projects\WatchMaintenanceSystem v3\WatchMaintenanceSystem\obj\Debug\WatchMaintenanceSystem.pdb
+C:\Users\Wayco\Documents\Visual Studio 2008\Projects\WatchMaintenanceSystem v3\WatchMaintenanceSystem\bin\Debug\WatchMaintenanceSystem.exe
+C:\Users\Wayco\Documents\Visual Studio 2008\Projects\WatchMaintenanceSystem v3\WatchMaintenanceSystem\bin\Debug\WatchMaintenanceSystem.pdb
+C:\Users\Wayco\Documents\Visual Studio 2008\Projects\WatchMaintenanceSystem v3\WatchMaintenanceSystem\bin\Debug\WatchMaintenanceSystem.xml
+C:\Users\Wayco\Documents\Visual Studio 2008\Projects\WatchMaintenanceSystem v3\WatchMaintenanceSystem\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Wayco\Documents\Visual Studio 2008\Projects\WatchMaintenanceSystem v3\WatchMaintenanceSystem\obj\Debug\WatchMaintenanceSystem.AddNewInvoice.resources
+C:\Users\Wayco\Documents\Visual Studio 2008\Projects\WatchMaintenanceSystem v3\WatchMaintenanceSystem\obj\Debug\WatchMaintenanceSystem.Form1.resources
+C:\Users\Wayco\Documents\Visual Studio 2008\Projects\WatchMaintenanceSystem v3\WatchMaintenanceSystem\obj\Debug\WatchMaintenanceSystem.Homepage.resources
+C:\Users\Wayco\Documents\Visual Studio 2008\Projects\WatchMaintenanceSystem v3\WatchMaintenanceSystem\obj\Debug\WatchMaintenanceSystem.Resources.resources
+C:\Users\Wayco\Documents\Visual Studio 2008\Projects\WatchMaintenanceSystem v3\WatchMaintenanceSystem\obj\Debug\WatchMaintenanceSystem.Workshop.resources
+C:\Users\Wayco\Documents\Visual Studio 2008\Projects\WatchMaintenanceSystem v3\WatchMaintenanceSystem\obj\Debug\WatchMaintenanceSystem.WorkshopDetail.resources
+C:\Users\Wayco\Documents\Visual Studio 2008\Projects\WatchMaintenanceSystem v3\WatchMaintenanceSystem\obj\Debug\WatchMaintenanceSystem.vbproj.GenerateResource.Cache
+C:\Users\Wayco\Documents\Visual Studio 2008\Projects\WatchMaintenanceSystem v4\WatchMaintenanceSystem\obj\Debug\WatchMaintenanceSystem.exe
+C:\Users\Wayco\Documents\Visual Studio 2008\Projects\WatchMaintenanceSystem v4\WatchMaintenanceSystem\obj\Debug\WatchMaintenanceSystem.xml
+C:\Users\Wayco\Documents\Visual Studio 2008\Projects\WatchMaintenanceSystem v4\WatchMaintenanceSystem\obj\Debug\WatchMaintenanceSystem.pdb
+C:\Users\Wayco\Documents\Visual Studio 2008\Projects\WatchMaintenanceSystem v4\WatchMaintenanceSystem\bin\Debug\WatchMaintenanceSystem.exe
+C:\Users\Wayco\Documents\Visual Studio 2008\Projects\WatchMaintenanceSystem v4\WatchMaintenanceSystem\bin\Debug\WatchMaintenanceSystem.pdb
+C:\Users\Wayco\Documents\Visual Studio 2008\Projects\WatchMaintenanceSystem v4\WatchMaintenanceSystem\bin\Debug\WatchMaintenanceSystem.xml
+C:\Users\Wayco\Documents\Visual Studio 2008\Projects\WatchMaintenanceSystem v4\WatchMaintenanceSystem\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Wayco\Documents\Visual Studio 2008\Projects\WatchMaintenanceSystem v4\WatchMaintenanceSystem\obj\Debug\WatchMaintenanceSystem.AddNewInvoice.resources
+C:\Users\Wayco\Documents\Visual Studio 2008\Projects\WatchMaintenanceSystem v4\WatchMaintenanceSystem\obj\Debug\WatchMaintenanceSystem.Form1.resources
+C:\Users\Wayco\Documents\Visual Studio 2008\Projects\WatchMaintenanceSystem v4\WatchMaintenanceSystem\obj\Debug\WatchMaintenanceSystem.Homepage.resources
+C:\Users\Wayco\Documents\Visual Studio 2008\Projects\WatchMaintenanceSystem v4\WatchMaintenanceSystem\obj\Debug\WatchMaintenanceSystem.Resources.resources
+C:\Users\Wayco\Documents\Visual Studio 2008\Projects\WatchMaintenanceSystem v4\WatchMaintenanceSystem\obj\Debug\WatchMaintenanceSystem.Workshop.resources
+C:\Users\Wayco\Documents\Visual Studio 2008\Projects\WatchMaintenanceSystem v4\WatchMaintenanceSystem\obj\Debug\WatchMaintenanceSystem.WorkshopDetail.resources
+C:\Users\Wayco\Documents\Visual Studio 2008\Projects\WatchMaintenanceSystem v4\WatchMaintenanceSystem\obj\Debug\WatchMaintenanceSystem.vbproj.GenerateResource.Cache
+C:\Users\Wayco\Documents\Visual Studio 2008\Projects\WatchMaintenanceSystem v4\WatchMaintenanceSystem\obj\Debug\WatchMaintenanceSystem.IssueSearch.resources
+C:\Users\Wayco\Documents\Visual Studio 2008\Projects\WatchMaintenanceSystem v4\WatchMaintenanceSystem\obj\Debug\WatchMaintenanceSystem.issueForm.resources
+C:\Users\Wayco\Documents\Visual Studio 2008\Projects\WatchMaintenanceSystem v5 (Making the UI)\WatchMaintenanceSystem\obj\Debug\WatchMaintenanceSystem.exe
+C:\Users\Wayco\Documents\Visual Studio 2008\Projects\WatchMaintenanceSystem v5 (Making the UI)\WatchMaintenanceSystem\obj\Debug\WatchMaintenanceSystem.xml
+C:\Users\Wayco\Documents\Visual Studio 2008\Projects\WatchMaintenanceSystem v5 (Making the UI)\WatchMaintenanceSystem\obj\Debug\WatchMaintenanceSystem.pdb
+C:\Users\Wayco\Documents\Visual Studio 2008\Projects\WatchMaintenanceSystem v5 (Making the UI)\WatchMaintenanceSystem\bin\Debug\WatchMaintenanceSystem.exe
+C:\Users\Wayco\Documents\Visual Studio 2008\Projects\WatchMaintenanceSystem v5 (Making the UI)\WatchMaintenanceSystem\bin\Debug\WatchMaintenanceSystem.pdb
+C:\Users\Wayco\Documents\Visual Studio 2008\Projects\WatchMaintenanceSystem v5 (Making the UI)\WatchMaintenanceSystem\bin\Debug\WatchMaintenanceSystem.xml
+C:\Users\Wayco\Documents\Visual Studio 2008\Projects\WatchMaintenanceSystem v5 (Making the UI)\WatchMaintenanceSystem\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Wayco\Documents\Visual Studio 2008\Projects\WatchMaintenanceSystem v5 (Making the UI)\WatchMaintenanceSystem\obj\Debug\WatchMaintenanceSystem.AddNewInvoice.resources
+C:\Users\Wayco\Documents\Visual Studio 2008\Projects\WatchMaintenanceSystem v5 (Making the UI)\WatchMaintenanceSystem\obj\Debug\WatchMaintenanceSystem.issueForm.resources
+C:\Users\Wayco\Documents\Visual Studio 2008\Projects\WatchMaintenanceSystem v5 (Making the UI)\WatchMaintenanceSystem\obj\Debug\WatchMaintenanceSystem.Form1.resources
+C:\Users\Wayco\Documents\Visual Studio 2008\Projects\WatchMaintenanceSystem v5 (Making the UI)\WatchMaintenanceSystem\obj\Debug\WatchMaintenanceSystem.Homepage.resources
+C:\Users\Wayco\Documents\Visual Studio 2008\Projects\WatchMaintenanceSystem v5 (Making the UI)\WatchMaintenanceSystem\obj\Debug\WatchMaintenanceSystem.IssueSearch.resources
+C:\Users\Wayco\Documents\Visual Studio 2008\Projects\WatchMaintenanceSystem v5 (Making the UI)\WatchMaintenanceSystem\obj\Debug\WatchMaintenanceSystem.Resources.resources
+C:\Users\Wayco\Documents\Visual Studio 2008\Projects\WatchMaintenanceSystem v5 (Making the UI)\WatchMaintenanceSystem\obj\Debug\WatchMaintenanceSystem.Workshop.resources
+C:\Users\Wayco\Documents\Visual Studio 2008\Projects\WatchMaintenanceSystem v5 (Making the UI)\WatchMaintenanceSystem\obj\Debug\WatchMaintenanceSystem.WorkshopDetail.resources
+C:\Users\Wayco\Documents\Visual Studio 2008\Projects\WatchMaintenanceSystem v5 (Making the UI)\WatchMaintenanceSystem\obj\Debug\WatchMaintenanceSystem.vbproj.GenerateResource.Cache
+C:\Users\Wayco\Documents\Visual Studio 2008\Projects\WatchMaintenanceSystem v5 (Making the UI)\WatchMaintenanceSystem\obj\Debug\WatchMaintenanceSystem.ChooseCompany.resources
+C:\Users\Wayco\Documents\Visual Studio 2008\Projects\WatchMaintenanceSystem v5 (Making the UI)\WatchMaintenanceSystem\obj\Debug\WatchMaintenanceSystem.payForm.resources
+C:\Users\Wayco\Documents\Visual Studio 2008\Projects\WatchMaintenanceSystem v6 (Change All UI ) - Copy\WatchMaintenanceSystem\obj\Debug\WatchMaintenanceSystem.exe
+C:\Users\Wayco\Documents\Visual Studio 2008\Projects\WatchMaintenanceSystem v6 (Change All UI ) - Copy\WatchMaintenanceSystem\obj\Debug\WatchMaintenanceSystem.xml
+C:\Users\Wayco\Documents\Visual Studio 2008\Projects\WatchMaintenanceSystem v6 (Change All UI ) - Copy\WatchMaintenanceSystem\obj\Debug\WatchMaintenanceSystem.pdb
+C:\Users\Wayco\Documents\Visual Studio 2008\Projects\WatchMaintenanceSystem v6 (Change All UI ) - Copy\WatchMaintenanceSystem\bin\Debug\WatchMaintenanceSystem.exe
+C:\Users\Wayco\Documents\Visual Studio 2008\Projects\WatchMaintenanceSystem v6 (Change All UI ) - Copy\WatchMaintenanceSystem\bin\Debug\WatchMaintenanceSystem.pdb
+C:\Users\Wayco\Documents\Visual Studio 2008\Projects\WatchMaintenanceSystem v6 (Change All UI ) - Copy\WatchMaintenanceSystem\bin\Debug\WatchMaintenanceSystem.xml
+C:\Users\Wayco\Documents\Visual Studio 2008\Projects\WatchMaintenanceSystem v6 (Change All UI ) - Copy\WatchMaintenanceSystem\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Wayco\Documents\Visual Studio 2008\Projects\WatchMaintenanceSystem v6 (Change All UI ) - Copy\WatchMaintenanceSystem\obj\Debug\WatchMaintenanceSystem.AddNewInvoice.resources
+C:\Users\Wayco\Documents\Visual Studio 2008\Projects\WatchMaintenanceSystem v6 (Change All UI ) - Copy\WatchMaintenanceSystem\obj\Debug\WatchMaintenanceSystem.ChooseCompany.resources
+C:\Users\Wayco\Documents\Visual Studio 2008\Projects\WatchMaintenanceSystem v6 (Change All UI ) - Copy\WatchMaintenanceSystem\obj\Debug\WatchMaintenanceSystem.issueForm.resources
+C:\Users\Wayco\Documents\Visual Studio 2008\Projects\WatchMaintenanceSystem v6 (Change All UI ) - Copy\WatchMaintenanceSystem\obj\Debug\WatchMaintenanceSystem.payForm.resources
+C:\Users\Wayco\Documents\Visual Studio 2008\Projects\WatchMaintenanceSystem v6 (Change All UI ) - Copy\WatchMaintenanceSystem\obj\Debug\WatchMaintenanceSystem.WorkshopDetail.resources
+C:\Users\Wayco\Documents\Visual Studio 2008\Projects\WatchMaintenanceSystem v6 (Change All UI ) - Copy\WatchMaintenanceSystem\obj\Debug\WatchMaintenanceSystem.Form1.resources
+C:\Users\Wayco\Documents\Visual Studio 2008\Projects\WatchMaintenanceSystem v6 (Change All UI ) - Copy\WatchMaintenanceSystem\obj\Debug\WatchMaintenanceSystem.Homepage.resources
+C:\Users\Wayco\Documents\Visual Studio 2008\Projects\WatchMaintenanceSystem v6 (Change All UI ) - Copy\WatchMaintenanceSystem\obj\Debug\WatchMaintenanceSystem.IssueSearch.resources
+C:\Users\Wayco\Documents\Visual Studio 2008\Projects\WatchMaintenanceSystem v6 (Change All UI ) - Copy\WatchMaintenanceSystem\obj\Debug\WatchMaintenanceSystem.Resources.resources
+C:\Users\Wayco\Documents\Visual Studio 2008\Projects\WatchMaintenanceSystem v6 (Change All UI ) - Copy\WatchMaintenanceSystem\obj\Debug\WatchMaintenanceSystem.Workshop.resources
+C:\Users\Wayco\Documents\Visual Studio 2008\Projects\WatchMaintenanceSystem v6 (Change All UI ) - Copy\WatchMaintenanceSystem\obj\Debug\WatchMaintenanceSystem.vbproj.GenerateResource.Cache
+C:\Users\Wayco\Documents\Visual Studio 2008\Projects\WatchMaintenanceSystem v6 (Change All UI )\WatchMaintenanceSystem\bin\Debug\WatchMaintenanceSystem.exe
+C:\Users\Wayco\Documents\Visual Studio 2008\Projects\WatchMaintenanceSystem v6 (Change All UI )\WatchMaintenanceSystem\bin\Debug\WatchMaintenanceSystem.pdb
+C:\Users\Wayco\Documents\Visual Studio 2008\Projects\WatchMaintenanceSystem v6 (Change All UI )\WatchMaintenanceSystem\bin\Debug\WatchMaintenanceSystem.xml
+C:\Users\Wayco\Documents\Visual Studio 2008\Projects\WatchMaintenanceSystem v6 (Change All UI )\WatchMaintenanceSystem\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Wayco\Documents\Visual Studio 2008\Projects\WatchMaintenanceSystem v6 (Change All UI )\WatchMaintenanceSystem\obj\Debug\WatchMaintenanceSystem.AddNewInvoice.resources
+C:\Users\Wayco\Documents\Visual Studio 2008\Projects\WatchMaintenanceSystem v6 (Change All UI )\WatchMaintenanceSystem\obj\Debug\WatchMaintenanceSystem.ChooseCompany.resources
+C:\Users\Wayco\Documents\Visual Studio 2008\Projects\WatchMaintenanceSystem v6 (Change All UI )\WatchMaintenanceSystem\obj\Debug\WatchMaintenanceSystem.WorkshopDetail.resources
+C:\Users\Wayco\Documents\Visual Studio 2008\Projects\WatchMaintenanceSystem v6 (Change All UI )\WatchMaintenanceSystem\obj\Debug\WatchMaintenanceSystem.issueForm.resources
+C:\Users\Wayco\Documents\Visual Studio 2008\Projects\WatchMaintenanceSystem v6 (Change All UI )\WatchMaintenanceSystem\obj\Debug\WatchMaintenanceSystem.payForm.resources
+C:\Users\Wayco\Documents\Visual Studio 2008\Projects\WatchMaintenanceSystem v6 (Change All UI )\WatchMaintenanceSystem\obj\Debug\WatchMaintenanceSystem.Form1.resources
+C:\Users\Wayco\Documents\Visual Studio 2008\Projects\WatchMaintenanceSystem v6 (Change All UI )\WatchMaintenanceSystem\obj\Debug\WatchMaintenanceSystem.Homepage.resources
+C:\Users\Wayco\Documents\Visual Studio 2008\Projects\WatchMaintenanceSystem v6 (Change All UI )\WatchMaintenanceSystem\obj\Debug\WatchMaintenanceSystem.IssueSearch.resources
+C:\Users\Wayco\Documents\Visual Studio 2008\Projects\WatchMaintenanceSystem v6 (Change All UI )\WatchMaintenanceSystem\obj\Debug\WatchMaintenanceSystem.Resources.resources
+C:\Users\Wayco\Documents\Visual Studio 2008\Projects\WatchMaintenanceSystem v6 (Change All UI )\WatchMaintenanceSystem\obj\Debug\WatchMaintenanceSystem.Workshop.resources
+C:\Users\Wayco\Documents\Visual Studio 2008\Projects\WatchMaintenanceSystem v6 (Change All UI )\WatchMaintenanceSystem\obj\Debug\WatchMaintenanceSystem.vbproj.GenerateResource.Cache
+C:\Users\Wayco\Documents\Visual Studio 2008\Projects\WatchMaintenanceSystem v6 (Change All UI )\WatchMaintenanceSystem\obj\Debug\WatchMaintenanceSystem.exe
+C:\Users\Wayco\Documents\Visual Studio 2008\Projects\WatchMaintenanceSystem v6 (Change All UI )\WatchMaintenanceSystem\obj\Debug\WatchMaintenanceSystem.xml
+C:\Users\Wayco\Documents\Visual Studio 2008\Projects\WatchMaintenanceSystem v6 (Change All UI )\WatchMaintenanceSystem\obj\Debug\WatchMaintenanceSystem.pdb
+C:\Users\Wayco\Documents\Visual Studio 2008\Projects\WatchMaintenanceSystem v6 (Change All UI )\WatchMaintenanceSystem\obj\Debug\WatchMaintenanceSystem.LoginForm.resources
+C:\Users\Wayco\Documents\Visual Studio 2008\Projects\WatchMaintenanceSystem v6 (Change All UI )\WatchMaintenanceSystem\obj\Debug\WatchMaintenanceSystem.MaintenanceMenu.resources
+C:\Users\Wayco\Documents\Visual Studio 2008\Projects\WatchMaintenanceSystem v6 (Change All UI )\WatchMaintenanceSystem\obj\Debug\WatchMaintenanceSystem.defaultSystemForm.resources
+C:\Users\Wayco\Documents\Visual Studio 2008\Projects\WatchMaintenanceSystem v6 (Change All UI )\WatchMaintenanceSystem\bin\Debug\MySql.Data.dll
+C:\Users\Wayco\Documents\Visual Studio 2008\Projects\WatchMaintenanceSystem v6 (Change All UI )\WatchMaintenanceSystem\obj\Debug\WatchMaintenanceSystem.deliveryChargeForm.resources
+C:\Users\Wayco\Documents\Visual Studio 2008\Projects\WatchMaintenanceSystem v6 (Change All UI )\WatchMaintenanceSystem\obj\Debug\WatchMaintenanceSystem.HistoryForm.resources
+C:\Users\Wayco\Documents\Visual Studio 2008\Projects\WatchMaintenanceSystem v7 ()\WatchMaintenanceSystem\obj\Debug\WatchMaintenanceSystem.exe
+C:\Users\Wayco\Documents\Visual Studio 2008\Projects\WatchMaintenanceSystem v7 ()\WatchMaintenanceSystem\obj\Debug\WatchMaintenanceSystem.xml
+C:\Users\Wayco\Documents\Visual Studio 2008\Projects\WatchMaintenanceSystem v7 ()\WatchMaintenanceSystem\obj\Debug\WatchMaintenanceSystem.pdb
+C:\Users\Wayco\Documents\Visual Studio 2008\Projects\WatchMaintenanceSystem v7 ()\WatchMaintenanceSystem\bin\Debug\WatchMaintenanceSystem.exe
+C:\Users\Wayco\Documents\Visual Studio 2008\Projects\WatchMaintenanceSystem v7 ()\WatchMaintenanceSystem\bin\Debug\WatchMaintenanceSystem.pdb
+C:\Users\Wayco\Documents\Visual Studio 2008\Projects\WatchMaintenanceSystem v7 ()\WatchMaintenanceSystem\bin\Debug\WatchMaintenanceSystem.xml
+C:\Users\Wayco\Documents\Visual Studio 2008\Projects\WatchMaintenanceSystem v7 ()\WatchMaintenanceSystem\bin\Debug\MySql.Data.dll
+C:\Users\Wayco\Documents\Visual Studio 2008\Projects\WatchMaintenanceSystem v7 ()\WatchMaintenanceSystem\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Wayco\Documents\Visual Studio 2008\Projects\WatchMaintenanceSystem v7 ()\WatchMaintenanceSystem\obj\Debug\WatchMaintenanceSystem.AddNewInvoice.resources
+C:\Users\Wayco\Documents\Visual Studio 2008\Projects\WatchMaintenanceSystem v7 ()\WatchMaintenanceSystem\obj\Debug\WatchMaintenanceSystem.ChooseCompany.resources
+C:\Users\Wayco\Documents\Visual Studio 2008\Projects\WatchMaintenanceSystem v7 ()\WatchMaintenanceSystem\obj\Debug\WatchMaintenanceSystem.defaultSystemForm.resources
+C:\Users\Wayco\Documents\Visual Studio 2008\Projects\WatchMaintenanceSystem v7 ()\WatchMaintenanceSystem\obj\Debug\WatchMaintenanceSystem.deliveryChargeForm.resources
+C:\Users\Wayco\Documents\Visual Studio 2008\Projects\WatchMaintenanceSystem v7 ()\WatchMaintenanceSystem\obj\Debug\WatchMaintenanceSystem.HistoryForm.resources
+C:\Users\Wayco\Documents\Visual Studio 2008\Projects\WatchMaintenanceSystem v7 ()\WatchMaintenanceSystem\obj\Debug\WatchMaintenanceSystem.LoginForm.resources
+C:\Users\Wayco\Documents\Visual Studio 2008\Projects\WatchMaintenanceSystem v7 ()\WatchMaintenanceSystem\obj\Debug\WatchMaintenanceSystem.MaintenanceMenu.resources
+C:\Users\Wayco\Documents\Visual Studio 2008\Projects\WatchMaintenanceSystem v7 ()\WatchMaintenanceSystem\obj\Debug\WatchMaintenanceSystem.WorkshopDetail.resources
+C:\Users\Wayco\Documents\Visual Studio 2008\Projects\WatchMaintenanceSystem v7 ()\WatchMaintenanceSystem\obj\Debug\WatchMaintenanceSystem.issueForm.resources
+C:\Users\Wayco\Documents\Visual Studio 2008\Projects\WatchMaintenanceSystem v7 ()\WatchMaintenanceSystem\obj\Debug\WatchMaintenanceSystem.payForm.resources
+C:\Users\Wayco\Documents\Visual Studio 2008\Projects\WatchMaintenanceSystem v7 ()\WatchMaintenanceSystem\obj\Debug\WatchMaintenanceSystem.Form1.resources
+C:\Users\Wayco\Documents\Visual Studio 2008\Projects\WatchMaintenanceSystem v7 ()\WatchMaintenanceSystem\obj\Debug\WatchMaintenanceSystem.Homepage.resources
+C:\Users\Wayco\Documents\Visual Studio 2008\Projects\WatchMaintenanceSystem v7 ()\WatchMaintenanceSystem\obj\Debug\WatchMaintenanceSystem.IssueSearch.resources
+C:\Users\Wayco\Documents\Visual Studio 2008\Projects\WatchMaintenanceSystem v7 ()\WatchMaintenanceSystem\obj\Debug\WatchMaintenanceSystem.Resources.resources
+C:\Users\Wayco\Documents\Visual Studio 2008\Projects\WatchMaintenanceSystem v7 ()\WatchMaintenanceSystem\obj\Debug\WatchMaintenanceSystem.Workshop.resources
+C:\Users\Wayco\Documents\Visual Studio 2008\Projects\WatchMaintenanceSystem v7 ()\WatchMaintenanceSystem\obj\Debug\WatchMaintenanceSystem.vbproj.GenerateResource.Cache
+C:\Users\Wayco\Documents\Visual Studio 2008\Projects\WatchMaintenanceSystem v7 ()\WatchMaintenanceSystem\obj\Debug\WatchMaintenanceSystem.AdminMaintain.resources
+C:\Users\Wayco\Documents\Visual Studio 2008\Projects\WatchMaintenanceSystem v7.2\WatchMaintenanceSystem\bin\Debug\WatchMaintenanceSystem.exe
+C:\Users\Wayco\Documents\Visual Studio 2008\Projects\WatchMaintenanceSystem v7.2\WatchMaintenanceSystem\bin\Debug\WatchMaintenanceSystem.pdb
+C:\Users\Wayco\Documents\Visual Studio 2008\Projects\WatchMaintenanceSystem v7.2\WatchMaintenanceSystem\bin\Debug\WatchMaintenanceSystem.xml
+C:\Users\Wayco\Documents\Visual Studio 2008\Projects\WatchMaintenanceSystem v7.2\WatchMaintenanceSystem\bin\Debug\MySql.Data.dll
+C:\Users\Wayco\Documents\Visual Studio 2008\Projects\WatchMaintenanceSystem v7.2\WatchMaintenanceSystem\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Wayco\Documents\Visual Studio 2008\Projects\WatchMaintenanceSystem v7.2\WatchMaintenanceSystem\obj\Debug\WatchMaintenanceSystem.AddNewInvoice.resources
+C:\Users\Wayco\Documents\Visual Studio 2008\Projects\WatchMaintenanceSystem v7.2\WatchMaintenanceSystem\obj\Debug\WatchMaintenanceSystem.AdminMaintain.resources
+C:\Users\Wayco\Documents\Visual Studio 2008\Projects\WatchMaintenanceSystem v7.2\WatchMaintenanceSystem\obj\Debug\WatchMaintenanceSystem.ChooseCompany.resources
+C:\Users\Wayco\Documents\Visual Studio 2008\Projects\WatchMaintenanceSystem v7.2\WatchMaintenanceSystem\obj\Debug\WatchMaintenanceSystem.defaultSystemForm.resources
+C:\Users\Wayco\Documents\Visual Studio 2008\Projects\WatchMaintenanceSystem v7.2\WatchMaintenanceSystem\obj\Debug\WatchMaintenanceSystem.deliveryChargeForm.resources
+C:\Users\Wayco\Documents\Visual Studio 2008\Projects\WatchMaintenanceSystem v7.2\WatchMaintenanceSystem\obj\Debug\WatchMaintenanceSystem.HistoryForm.resources
+C:\Users\Wayco\Documents\Visual Studio 2008\Projects\WatchMaintenanceSystem v7.2\WatchMaintenanceSystem\obj\Debug\WatchMaintenanceSystem.LoginForm.resources
+C:\Users\Wayco\Documents\Visual Studio 2008\Projects\WatchMaintenanceSystem v7.2\WatchMaintenanceSystem\obj\Debug\WatchMaintenanceSystem.MaintenanceMenu.resources
+C:\Users\Wayco\Documents\Visual Studio 2008\Projects\WatchMaintenanceSystem v7.2\WatchMaintenanceSystem\obj\Debug\WatchMaintenanceSystem.WorkshopDetail.resources
+C:\Users\Wayco\Documents\Visual Studio 2008\Projects\WatchMaintenanceSystem v7.2\WatchMaintenanceSystem\obj\Debug\WatchMaintenanceSystem.issueForm.resources
+C:\Users\Wayco\Documents\Visual Studio 2008\Projects\WatchMaintenanceSystem v7.2\WatchMaintenanceSystem\obj\Debug\WatchMaintenanceSystem.payForm.resources
+C:\Users\Wayco\Documents\Visual Studio 2008\Projects\WatchMaintenanceSystem v7.2\WatchMaintenanceSystem\obj\Debug\WatchMaintenanceSystem.Form1.resources
+C:\Users\Wayco\Documents\Visual Studio 2008\Projects\WatchMaintenanceSystem v7.2\WatchMaintenanceSystem\obj\Debug\WatchMaintenanceSystem.Homepage.resources
+C:\Users\Wayco\Documents\Visual Studio 2008\Projects\WatchMaintenanceSystem v7.2\WatchMaintenanceSystem\obj\Debug\WatchMaintenanceSystem.IssueSearch.resources
+C:\Users\Wayco\Documents\Visual Studio 2008\Projects\WatchMaintenanceSystem v7.2\WatchMaintenanceSystem\obj\Debug\WatchMaintenanceSystem.Resources.resources
+C:\Users\Wayco\Documents\Visual Studio 2008\Projects\WatchMaintenanceSystem v7.2\WatchMaintenanceSystem\obj\Debug\WatchMaintenanceSystem.Workshop.resources
+C:\Users\Wayco\Documents\Visual Studio 2008\Projects\WatchMaintenanceSystem v7.2\WatchMaintenanceSystem\obj\Debug\WatchMaintenanceSystem.vbproj.GenerateResource.Cache
+C:\Users\Wayco\Documents\Visual Studio 2008\Projects\WatchMaintenanceSystem v7.2\WatchMaintenanceSystem\obj\Debug\WatchMaintenanceSystem.exe
+C:\Users\Wayco\Documents\Visual Studio 2008\Projects\WatchMaintenanceSystem v7.2\WatchMaintenanceSystem\obj\Debug\WatchMaintenanceSystem.xml
+C:\Users\Wayco\Documents\Visual Studio 2008\Projects\WatchMaintenanceSystem v7.2\WatchMaintenanceSystem\obj\Debug\WatchMaintenanceSystem.pdb
+C:\Users\Wayco\Documents\Visual Studio 2008\Projects\WatchMaintenanceSystem v7.3\WatchMaintenanceSystem\obj\Debug\WatchMaintenanceSystem.exe
+C:\Users\Wayco\Documents\Visual Studio 2008\Projects\WatchMaintenanceSystem v7.3\WatchMaintenanceSystem\obj\Debug\WatchMaintenanceSystem.xml
+C:\Users\Wayco\Documents\Visual Studio 2008\Projects\WatchMaintenanceSystem v7.3\WatchMaintenanceSystem\obj\Debug\WatchMaintenanceSystem.pdb
+C:\Users\Wayco\Documents\Visual Studio 2008\Projects\WatchMaintenanceSystem v7.3\WatchMaintenanceSystem\bin\Debug\WatchMaintenanceSystem.exe
+C:\Users\Wayco\Documents\Visual Studio 2008\Projects\WatchMaintenanceSystem v7.3\WatchMaintenanceSystem\bin\Debug\WatchMaintenanceSystem.pdb
+C:\Users\Wayco\Documents\Visual Studio 2008\Projects\WatchMaintenanceSystem v7.3\WatchMaintenanceSystem\bin\Debug\WatchMaintenanceSystem.xml
+C:\Users\Wayco\Documents\Visual Studio 2008\Projects\WatchMaintenanceSystem v7.3\WatchMaintenanceSystem\bin\Debug\MySql.Data.dll
+C:\Users\Wayco\Documents\Visual Studio 2008\Projects\WatchMaintenanceSystem v7.3\WatchMaintenanceSystem\obj\Debug\WatchMaintenanceSystem.AddNewInvoice.resources
+C:\Users\Wayco\Documents\Visual Studio 2008\Projects\WatchMaintenanceSystem v7.3\WatchMaintenanceSystem\obj\Debug\WatchMaintenanceSystem.AdminMaintain.resources
+C:\Users\Wayco\Documents\Visual Studio 2008\Projects\WatchMaintenanceSystem v7.3\WatchMaintenanceSystem\obj\Debug\WatchMaintenanceSystem.ChooseCompany.resources
+C:\Users\Wayco\Documents\Visual Studio 2008\Projects\WatchMaintenanceSystem v7.3\WatchMaintenanceSystem\obj\Debug\WatchMaintenanceSystem.defaultSystemForm.resources
+C:\Users\Wayco\Documents\Visual Studio 2008\Projects\WatchMaintenanceSystem v7.3\WatchMaintenanceSystem\obj\Debug\WatchMaintenanceSystem.deliveryChargeForm.resources
+C:\Users\Wayco\Documents\Visual Studio 2008\Projects\WatchMaintenanceSystem v7.3\WatchMaintenanceSystem\obj\Debug\WatchMaintenanceSystem.HistoryForm.resources
+C:\Users\Wayco\Documents\Visual Studio 2008\Projects\WatchMaintenanceSystem v7.3\WatchMaintenanceSystem\obj\Debug\WatchMaintenanceSystem.LoginForm.resources
+C:\Users\Wayco\Documents\Visual Studio 2008\Projects\WatchMaintenanceSystem v7.3\WatchMaintenanceSystem\obj\Debug\WatchMaintenanceSystem.MaintenanceMenu.resources
+C:\Users\Wayco\Documents\Visual Studio 2008\Projects\WatchMaintenanceSystem v7.3\WatchMaintenanceSystem\obj\Debug\WatchMaintenanceSystem.WorkshopDetail.resources
+C:\Users\Wayco\Documents\Visual Studio 2008\Projects\WatchMaintenanceSystem v7.3\WatchMaintenanceSystem\obj\Debug\WatchMaintenanceSystem.issueForm.resources
+C:\Users\Wayco\Documents\Visual Studio 2008\Projects\WatchMaintenanceSystem v7.3\WatchMaintenanceSystem\obj\Debug\WatchMaintenanceSystem.payForm.resources
+C:\Users\Wayco\Documents\Visual Studio 2008\Projects\WatchMaintenanceSystem v7.3\WatchMaintenanceSystem\obj\Debug\WatchMaintenanceSystem.Form1.resources
+C:\Users\Wayco\Documents\Visual Studio 2008\Projects\WatchMaintenanceSystem v7.3\WatchMaintenanceSystem\obj\Debug\WatchMaintenanceSystem.Homepage.resources
+C:\Users\Wayco\Documents\Visual Studio 2008\Projects\WatchMaintenanceSystem v7.3\WatchMaintenanceSystem\obj\Debug\WatchMaintenanceSystem.IssueSearch.resources
+C:\Users\Wayco\Documents\Visual Studio 2008\Projects\WatchMaintenanceSystem v7.3\WatchMaintenanceSystem\obj\Debug\WatchMaintenanceSystem.Resources.resources
+C:\Users\Wayco\Documents\Visual Studio 2008\Projects\WatchMaintenanceSystem v7.3\WatchMaintenanceSystem\obj\Debug\WatchMaintenanceSystem.Workshop.resources
+C:\Users\Wayco\Documents\Visual Studio 2008\Projects\WatchMaintenanceSystem v7.3\WatchMaintenanceSystem\obj\Debug\WatchMaintenanceSystem.vbproj.GenerateResource.Cache
+C:\Users\Wayco\Documents\Visual Studio 2008\Projects\WatchMaintenanceSystem v7.3\WatchMaintenanceSystem\obj\Debug\WatchMaintenanceSystem.AddCompany.resources
+C:\Users\Wayco\Documents\Visual Studio 2008\Projects\WatchMaintenanceSystem v7.3\WatchMaintenanceSystem\obj\Debug\WatchMaintenanceSystem.vbprojResolveAssemblyReference.cache
+C:\Users\Wayco\Documents\Visual Studio 2008\Projects\WatchMaintenanceSystem v7.3\WatchMaintenanceSystem\obj\Debug\WatchMaintenanceSystem.detailReportForm.resources
+C:\Users\Wayco\Documents\Visual Studio 2008\Projects\WatchMaintenanceSystem v7.3\WatchMaintenanceSystem\bin\Debug\WatchMaintenanceSystem.exe.config
+C:\Users\Wayco\Documents\Visual Studio 2008\Projects\WatchMaintenanceSystem v7.3\WatchMaintenanceSystem\obj\Debug\WatchMaintenanceSystem.vbproj.ResolveComReference.cache
+D:\BCH SYSTEM\watch system\WatchMaintenanceSystem v7.3\WatchMaintenanceSystem\bin\Debug\WatchMaintenanceSystem.exe.config
+D:\BCH SYSTEM\watch system\WatchMaintenanceSystem v7.3\WatchMaintenanceSystem\bin\Debug\WatchMaintenanceSystem.exe
+D:\BCH SYSTEM\watch system\WatchMaintenanceSystem v7.3\WatchMaintenanceSystem\bin\Debug\WatchMaintenanceSystem.pdb
+D:\BCH SYSTEM\watch system\WatchMaintenanceSystem v7.3\WatchMaintenanceSystem\bin\Debug\WatchMaintenanceSystem.xml
+D:\BCH SYSTEM\watch system\WatchMaintenanceSystem v7.3\WatchMaintenanceSystem\obj\Debug\WatchMaintenanceSystem.vbprojResolveAssemblyReference.cache
+D:\BCH SYSTEM\watch system\WatchMaintenanceSystem v7.3\WatchMaintenanceSystem\obj\Debug\WatchMaintenanceSystem.vbproj.ResolveComReference.cache
+D:\BCH SYSTEM\watch system\WatchMaintenanceSystem v7.3\WatchMaintenanceSystem\obj\Debug\WatchMaintenanceSystem.AddCompany.resources
+D:\BCH SYSTEM\watch system\WatchMaintenanceSystem v7.3\WatchMaintenanceSystem\obj\Debug\WatchMaintenanceSystem.AddNewInvoice.resources
+D:\BCH SYSTEM\watch system\WatchMaintenanceSystem v7.3\WatchMaintenanceSystem\obj\Debug\WatchMaintenanceSystem.AdminMaintain.resources
+D:\BCH SYSTEM\watch system\WatchMaintenanceSystem v7.3\WatchMaintenanceSystem\obj\Debug\WatchMaintenanceSystem.ChooseCompany.resources
+D:\BCH SYSTEM\watch system\WatchMaintenanceSystem v7.3\WatchMaintenanceSystem\obj\Debug\WatchMaintenanceSystem.defaultSystemForm.resources
+D:\BCH SYSTEM\watch system\WatchMaintenanceSystem v7.3\WatchMaintenanceSystem\obj\Debug\WatchMaintenanceSystem.deliveryChargeForm.resources
+D:\BCH SYSTEM\watch system\WatchMaintenanceSystem v7.3\WatchMaintenanceSystem\obj\Debug\WatchMaintenanceSystem.detailReportForm.resources
+D:\BCH SYSTEM\watch system\WatchMaintenanceSystem v7.3\WatchMaintenanceSystem\obj\Debug\WatchMaintenanceSystem.HistoryForm.resources
+D:\BCH SYSTEM\watch system\WatchMaintenanceSystem v7.3\WatchMaintenanceSystem\obj\Debug\WatchMaintenanceSystem.LoginForm.resources
+D:\BCH SYSTEM\watch system\WatchMaintenanceSystem v7.3\WatchMaintenanceSystem\obj\Debug\WatchMaintenanceSystem.MaintenanceMenu.resources
+D:\BCH SYSTEM\watch system\WatchMaintenanceSystem v7.3\WatchMaintenanceSystem\obj\Debug\WatchMaintenanceSystem.WorkshopDetail.resources
+D:\BCH SYSTEM\watch system\WatchMaintenanceSystem v7.3\WatchMaintenanceSystem\obj\Debug\WatchMaintenanceSystem.issueForm.resources
+D:\BCH SYSTEM\watch system\WatchMaintenanceSystem v7.3\WatchMaintenanceSystem\obj\Debug\WatchMaintenanceSystem.payForm.resources
+D:\BCH SYSTEM\watch system\WatchMaintenanceSystem v7.3\WatchMaintenanceSystem\obj\Debug\WatchMaintenanceSystem.Form1.resources
+D:\BCH SYSTEM\watch system\WatchMaintenanceSystem v7.3\WatchMaintenanceSystem\obj\Debug\WatchMaintenanceSystem.Homepage.resources
+D:\BCH SYSTEM\watch system\WatchMaintenanceSystem v7.3\WatchMaintenanceSystem\obj\Debug\WatchMaintenanceSystem.IssueSearch.resources
+D:\BCH SYSTEM\watch system\WatchMaintenanceSystem v7.3\WatchMaintenanceSystem\obj\Debug\WatchMaintenanceSystem.Resources.resources
+D:\BCH SYSTEM\watch system\WatchMaintenanceSystem v7.3\WatchMaintenanceSystem\obj\Debug\WatchMaintenanceSystem.Workshop.resources
+D:\BCH SYSTEM\watch system\WatchMaintenanceSystem v7.3\WatchMaintenanceSystem\obj\Debug\WatchMaintenanceSystem.vbproj.GenerateResource.Cache
+D:\BCH SYSTEM\watch system\WatchMaintenanceSystem v7.3\WatchMaintenanceSystem\obj\Debug\WatchMaintenanceSystem.exe
+D:\BCH SYSTEM\watch system\WatchMaintenanceSystem v7.3\WatchMaintenanceSystem\obj\Debug\WatchMaintenanceSystem.xml
+D:\BCH SYSTEM\watch system\WatchMaintenanceSystem v7.3\WatchMaintenanceSystem\obj\Debug\WatchMaintenanceSystem.pdb
+D:\watchMaintenanceSystem\trunk\WatchMaintenanceSystem\bin\Debug\WatchMaintenanceSystem.exe
+D:\watchMaintenanceSystem\trunk\WatchMaintenanceSystem\bin\Debug\WatchMaintenanceSystem.exe.config
+D:\watchMaintenanceSystem\trunk\WatchMaintenanceSystem\obj\Debug\WatchMaintenanceSystem.vbproj.ResolveComReference.cache
+D:\watchMaintenanceSystem\trunk\WatchMaintenanceSystem\obj\Debug\WatchMaintenanceSystem.AddCompany.resources
+D:\watchMaintenanceSystem\trunk\WatchMaintenanceSystem\obj\Debug\WatchMaintenanceSystem.AddNewInvoice.resources
+D:\watchMaintenanceSystem\trunk\WatchMaintenanceSystem\obj\Debug\WatchMaintenanceSystem.AdminMaintain.resources
+D:\watchMaintenanceSystem\trunk\WatchMaintenanceSystem\obj\Debug\WatchMaintenanceSystem.ChooseCompany.resources
+D:\watchMaintenanceSystem\trunk\WatchMaintenanceSystem\obj\Debug\WatchMaintenanceSystem.defaultSystemForm.resources
+D:\watchMaintenanceSystem\trunk\WatchMaintenanceSystem\obj\Debug\WatchMaintenanceSystem.deliveryChargeForm.resources
+D:\watchMaintenanceSystem\trunk\WatchMaintenanceSystem\obj\Debug\WatchMaintenanceSystem.detailReportForm.resources
+D:\watchMaintenanceSystem\trunk\WatchMaintenanceSystem\obj\Debug\WatchMaintenanceSystem.Form2.resources
+D:\watchMaintenanceSystem\trunk\WatchMaintenanceSystem\obj\Debug\WatchMaintenanceSystem.HistoryForm.resources
+D:\watchMaintenanceSystem\trunk\WatchMaintenanceSystem\obj\Debug\WatchMaintenanceSystem.IssueForm.resources
+D:\watchMaintenanceSystem\trunk\WatchMaintenanceSystem\obj\Debug\WatchMaintenanceSystem.LoginForm.resources
+D:\watchMaintenanceSystem\trunk\WatchMaintenanceSystem\obj\Debug\WatchMaintenanceSystem.MaintenanceMenu.resources
+D:\watchMaintenanceSystem\trunk\WatchMaintenanceSystem\obj\Debug\WatchMaintenanceSystem.WatchConditionForm.resources
+D:\watchMaintenanceSystem\trunk\WatchMaintenanceSystem\obj\Debug\WatchMaintenanceSystem.WorkshopDetail.resources
+D:\watchMaintenanceSystem\trunk\WatchMaintenanceSystem\obj\Debug\WatchMaintenanceSystem.payForm.resources
+D:\watchMaintenanceSystem\trunk\WatchMaintenanceSystem\obj\Debug\WatchMaintenanceSystem.Form1.resources
+D:\watchMaintenanceSystem\trunk\WatchMaintenanceSystem\obj\Debug\WatchMaintenanceSystem.Homepage.resources
+D:\watchMaintenanceSystem\trunk\WatchMaintenanceSystem\obj\Debug\WatchMaintenanceSystem.IssueSearch.resources
+D:\watchMaintenanceSystem\trunk\WatchMaintenanceSystem\obj\Debug\WatchMaintenanceSystem.Resources.resources
+D:\watchMaintenanceSystem\trunk\WatchMaintenanceSystem\obj\Debug\WatchMaintenanceSystem.Workshop.resources
+D:\watchMaintenanceSystem\trunk\WatchMaintenanceSystem\obj\Debug\WatchMaintenanceSystem.vbproj.GenerateResource.Cache
+D:\watchMaintenanceSystem\trunk\WatchMaintenanceSystem\obj\Debug\WatchMaintenanceSystem.exe
+D:\watchMaintenanceSystem\trunk\WatchMaintenanceSystem\obj\Debug\WatchMaintenanceSystem.xml
+D:\watchMaintenanceSystem\trunk\WatchMaintenanceSystem\obj\Debug\WatchMaintenanceSystem.pdb
+D:\watchMaintenanceSystem\trunk\WatchMaintenanceSystem\obj\Debug\WatchMaintenanceSystem.vbprojResolveAssemblyReference.cache
+D:\watchMaintenanceSystem\trunk\WatchMaintenanceSystem\bin\Debug\WatchMaintenanceSystem.pdb
+D:\watchMaintenanceSystem\trunk\WatchMaintenanceSystem\bin\Debug\WatchMaintenanceSystem.xml

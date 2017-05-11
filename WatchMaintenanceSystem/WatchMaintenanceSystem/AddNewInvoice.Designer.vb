@@ -63,6 +63,11 @@ Partial Class AddNewInvoice
         Me.tblWhole = New System.Windows.Forms.TableLayoutPanel()
         Me.tblBody = New System.Windows.Forms.TableLayoutPanel()
         Me.tblLeft = New System.Windows.Forms.TableLayoutPanel()
+        Me.CustDesignPanel = New System.Windows.Forms.Panel()
+        Me.tblCustomer = New System.Windows.Forms.TableLayoutPanel()
+        Me.panelCustomer = New System.Windows.Forms.Panel()
+        Me.Label6 = New System.Windows.Forms.Label()
+        Me.panelWatchDesign = New System.Windows.Forms.Panel()
         Me.tblWatch = New System.Windows.Forms.TableLayoutPanel()
         Me.tblWatchDetail = New System.Windows.Forms.TableLayoutPanel()
         Me.Label3 = New System.Windows.Forms.Label()
@@ -83,11 +88,17 @@ Partial Class AddNewInvoice
         Me.chkType = New System.Windows.Forms.CheckedListBox()
         Me.chkGender = New System.Windows.Forms.CheckedListBox()
         Me.chkBrace = New System.Windows.Forms.CheckedListBox()
-        Me.CustDesignPanel = New System.Windows.Forms.Panel()
-        Me.tblCustomer = New System.Windows.Forms.TableLayoutPanel()
-        Me.panelCustomer = New System.Windows.Forms.Panel()
-        Me.Label6 = New System.Windows.Forms.Label()
         Me.tblRight = New System.Windows.Forms.TableLayoutPanel()
+        Me.panelWatchConDesign = New System.Windows.Forms.Panel()
+        Me.tblWatchCon = New System.Windows.Forms.TableLayoutPanel()
+        Me.pcbWatchSketch = New System.Windows.Forms.PictureBox()
+        Me.tblCondition = New System.Windows.Forms.TableLayoutPanel()
+        Me.lbCondition = New System.Windows.Forms.ListBox()
+        Me.tblConditionButton = New System.Windows.Forms.TableLayoutPanel()
+        Me.btnClearCon = New System.Windows.Forms.Button()
+        Me.panelWatchCondition = New System.Windows.Forms.Panel()
+        Me.Label10 = New System.Windows.Forms.Label()
+        Me.panelServiceDesign = New System.Windows.Forms.Panel()
         Me.TableLayoutPanel3 = New System.Windows.Forms.TableLayoutPanel()
         Me.txtIssueBy = New System.Windows.Forms.TextBox()
         Me.Label23 = New System.Windows.Forms.Label()
@@ -105,17 +116,6 @@ Partial Class AddNewInvoice
         Me.txtReceipt = New System.Windows.Forms.TextBox()
         Me.Label9 = New System.Windows.Forms.Label()
         Me.txtDate = New System.Windows.Forms.TextBox()
-        Me.panelWatchDesign = New System.Windows.Forms.Panel()
-        Me.panelWatchCondition = New System.Windows.Forms.Panel()
-        Me.Label10 = New System.Windows.Forms.Label()
-        Me.tblCondition = New System.Windows.Forms.TableLayoutPanel()
-        Me.tblConditionButton = New System.Windows.Forms.TableLayoutPanel()
-        Me.btnClearCon = New System.Windows.Forms.Button()
-        Me.lbCondition = New System.Windows.Forms.ListBox()
-        Me.pcbWatchSketch = New System.Windows.Forms.PictureBox()
-        Me.tblWatchCon = New System.Windows.Forms.TableLayoutPanel()
-        Me.panelWatchConDesign = New System.Windows.Forms.Panel()
-        Me.panelServiceDesign = New System.Windows.Forms.Panel()
         CType(Me.errName, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.errPhone, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.errBrand, System.ComponentModel.ISupportInitialize).BeginInit()
@@ -135,28 +135,28 @@ Partial Class AddNewInvoice
         Me.tblWhole.SuspendLayout()
         Me.tblBody.SuspendLayout()
         Me.tblLeft.SuspendLayout()
+        Me.CustDesignPanel.SuspendLayout()
+        Me.tblCustomer.SuspendLayout()
+        Me.panelCustomer.SuspendLayout()
+        Me.panelWatchDesign.SuspendLayout()
         Me.tblWatch.SuspendLayout()
         Me.tblWatchDetail.SuspendLayout()
         Me.tblDropbox.SuspendLayout()
         Me.panelWatch.SuspendLayout()
         Me.tblWatchMoreDetail.SuspendLayout()
-        Me.CustDesignPanel.SuspendLayout()
-        Me.tblCustomer.SuspendLayout()
-        Me.panelCustomer.SuspendLayout()
         Me.tblRight.SuspendLayout()
+        Me.panelWatchConDesign.SuspendLayout()
+        Me.tblWatchCon.SuspendLayout()
+        CType(Me.pcbWatchSketch, System.ComponentModel.ISupportInitialize).BeginInit()
+        Me.tblCondition.SuspendLayout()
+        Me.tblConditionButton.SuspendLayout()
+        Me.panelWatchCondition.SuspendLayout()
+        Me.panelServiceDesign.SuspendLayout()
         Me.TableLayoutPanel3.SuspendLayout()
         Me.Panel2.SuspendLayout()
         Me.TableLayoutPanel1.SuspendLayout()
         Me.topPanel.SuspendLayout()
         Me.tblTopPanel.SuspendLayout()
-        Me.panelWatchDesign.SuspendLayout()
-        Me.panelWatchCondition.SuspendLayout()
-        Me.tblCondition.SuspendLayout()
-        Me.tblConditionButton.SuspendLayout()
-        CType(Me.pcbWatchSketch, System.ComponentModel.ISupportInitialize).BeginInit()
-        Me.tblWatchCon.SuspendLayout()
-        Me.panelWatchConDesign.SuspendLayout()
-        Me.panelServiceDesign.SuspendLayout()
         Me.SuspendLayout()
         '
         'lblName
@@ -439,6 +439,73 @@ Partial Class AddNewInvoice
         Me.tblLeft.Size = New System.Drawing.Size(460, 500)
         Me.tblLeft.TabIndex = 0
         '
+        'CustDesignPanel
+        '
+        Me.CustDesignPanel.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle
+        Me.CustDesignPanel.Controls.Add(Me.tblCustomer)
+        Me.CustDesignPanel.Dock = System.Windows.Forms.DockStyle.Fill
+        Me.CustDesignPanel.Location = New System.Drawing.Point(3, 3)
+        Me.CustDesignPanel.Name = "CustDesignPanel"
+        Me.CustDesignPanel.Size = New System.Drawing.Size(454, 194)
+        Me.CustDesignPanel.TabIndex = 31
+        '
+        'tblCustomer
+        '
+        Me.tblCustomer.ColumnCount = 2
+        Me.tblCustomer.ColumnStyles.Add(New System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 30.0!))
+        Me.tblCustomer.ColumnStyles.Add(New System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 70.0!))
+        Me.tblCustomer.Controls.Add(Me.Label21, 0, 3)
+        Me.tblCustomer.Controls.Add(Me.txtPhone2, 1, 3)
+        Me.tblCustomer.Controls.Add(Me.lblPhone, 0, 2)
+        Me.tblCustomer.Controls.Add(Me.txtPhone, 1, 2)
+        Me.tblCustomer.Controls.Add(Me.lblName, 0, 1)
+        Me.tblCustomer.Controls.Add(Me.txtName, 1, 1)
+        Me.tblCustomer.Controls.Add(Me.panelCustomer, 0, 0)
+        Me.tblCustomer.Dock = System.Windows.Forms.DockStyle.Fill
+        Me.tblCustomer.Location = New System.Drawing.Point(0, 0)
+        Me.tblCustomer.Name = "tblCustomer"
+        Me.tblCustomer.RowCount = 4
+        Me.tblCustomer.RowStyles.Add(New System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 25.0!))
+        Me.tblCustomer.RowStyles.Add(New System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 25.0!))
+        Me.tblCustomer.RowStyles.Add(New System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 25.0!))
+        Me.tblCustomer.RowStyles.Add(New System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 25.0!))
+        Me.tblCustomer.Size = New System.Drawing.Size(452, 192)
+        Me.tblCustomer.TabIndex = 29
+        '
+        'panelCustomer
+        '
+        Me.panelCustomer.BackColor = System.Drawing.Color.FromArgb(CType(CType(0, Byte), Integer), CType(CType(175, Byte), Integer), CType(CType(240, Byte), Integer))
+        Me.tblCustomer.SetColumnSpan(Me.panelCustomer, 2)
+        Me.panelCustomer.Controls.Add(Me.Label6)
+        Me.panelCustomer.Dock = System.Windows.Forms.DockStyle.Fill
+        Me.panelCustomer.Location = New System.Drawing.Point(3, 3)
+        Me.panelCustomer.Name = "panelCustomer"
+        Me.panelCustomer.Size = New System.Drawing.Size(446, 42)
+        Me.panelCustomer.TabIndex = 5
+        '
+        'Label6
+        '
+        Me.Label6.AutoSize = True
+        Me.Label6.Dock = System.Windows.Forms.DockStyle.Fill
+        Me.Label6.Font = New System.Drawing.Font("Segoe UI", 12.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label6.ForeColor = System.Drawing.Color.White
+        Me.Label6.Location = New System.Drawing.Point(0, 0)
+        Me.Label6.Name = "Label6"
+        Me.Label6.Size = New System.Drawing.Size(87, 23)
+        Me.Label6.TabIndex = 5
+        Me.Label6.Text = "Customer"
+        Me.Label6.TextAlign = System.Drawing.ContentAlignment.MiddleLeft
+        '
+        'panelWatchDesign
+        '
+        Me.panelWatchDesign.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle
+        Me.panelWatchDesign.Controls.Add(Me.tblWatch)
+        Me.panelWatchDesign.Dock = System.Windows.Forms.DockStyle.Fill
+        Me.panelWatchDesign.Location = New System.Drawing.Point(3, 203)
+        Me.panelWatchDesign.Name = "panelWatchDesign"
+        Me.panelWatchDesign.Size = New System.Drawing.Size(454, 294)
+        Me.panelWatchDesign.TabIndex = 32
+        '
         'tblWatch
         '
         Me.tblWatch.ColumnCount = 1
@@ -612,7 +679,7 @@ Partial Class AddNewInvoice
         '
         'panelWatch
         '
-        Me.panelWatch.BackColor = System.Drawing.Color.FromArgb(CType(CType(153, Byte), Integer), CType(CType(217, Byte), Integer), CType(CType(234, Byte), Integer))
+        Me.panelWatch.BackColor = System.Drawing.Color.FromArgb(CType(CType(0, Byte), Integer), CType(CType(175, Byte), Integer), CType(CType(240, Byte), Integer))
         Me.tblWatchDetail.SetColumnSpan(Me.panelWatch, 2)
         Me.panelWatch.Controls.Add(Me.Label7)
         Me.panelWatch.Dock = System.Windows.Forms.DockStyle.Fill
@@ -710,63 +777,6 @@ Partial Class AddNewInvoice
         Me.chkBrace.Size = New System.Drawing.Size(122, 118)
         Me.chkBrace.TabIndex = 14
         '
-        'CustDesignPanel
-        '
-        Me.CustDesignPanel.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle
-        Me.CustDesignPanel.Controls.Add(Me.tblCustomer)
-        Me.CustDesignPanel.Dock = System.Windows.Forms.DockStyle.Fill
-        Me.CustDesignPanel.Location = New System.Drawing.Point(3, 3)
-        Me.CustDesignPanel.Name = "CustDesignPanel"
-        Me.CustDesignPanel.Size = New System.Drawing.Size(454, 194)
-        Me.CustDesignPanel.TabIndex = 31
-        '
-        'tblCustomer
-        '
-        Me.tblCustomer.ColumnCount = 2
-        Me.tblCustomer.ColumnStyles.Add(New System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 30.0!))
-        Me.tblCustomer.ColumnStyles.Add(New System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 70.0!))
-        Me.tblCustomer.Controls.Add(Me.Label21, 0, 3)
-        Me.tblCustomer.Controls.Add(Me.txtPhone2, 1, 3)
-        Me.tblCustomer.Controls.Add(Me.lblPhone, 0, 2)
-        Me.tblCustomer.Controls.Add(Me.txtPhone, 1, 2)
-        Me.tblCustomer.Controls.Add(Me.lblName, 0, 1)
-        Me.tblCustomer.Controls.Add(Me.txtName, 1, 1)
-        Me.tblCustomer.Controls.Add(Me.panelCustomer, 0, 0)
-        Me.tblCustomer.Dock = System.Windows.Forms.DockStyle.Fill
-        Me.tblCustomer.Location = New System.Drawing.Point(0, 0)
-        Me.tblCustomer.Name = "tblCustomer"
-        Me.tblCustomer.RowCount = 4
-        Me.tblCustomer.RowStyles.Add(New System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 25.0!))
-        Me.tblCustomer.RowStyles.Add(New System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 25.0!))
-        Me.tblCustomer.RowStyles.Add(New System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 25.0!))
-        Me.tblCustomer.RowStyles.Add(New System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 25.0!))
-        Me.tblCustomer.Size = New System.Drawing.Size(452, 192)
-        Me.tblCustomer.TabIndex = 29
-        '
-        'panelCustomer
-        '
-        Me.panelCustomer.BackColor = System.Drawing.Color.FromArgb(CType(CType(153, Byte), Integer), CType(CType(217, Byte), Integer), CType(CType(234, Byte), Integer))
-        Me.tblCustomer.SetColumnSpan(Me.panelCustomer, 2)
-        Me.panelCustomer.Controls.Add(Me.Label6)
-        Me.panelCustomer.Dock = System.Windows.Forms.DockStyle.Fill
-        Me.panelCustomer.Location = New System.Drawing.Point(3, 3)
-        Me.panelCustomer.Name = "panelCustomer"
-        Me.panelCustomer.Size = New System.Drawing.Size(446, 42)
-        Me.panelCustomer.TabIndex = 5
-        '
-        'Label6
-        '
-        Me.Label6.AutoSize = True
-        Me.Label6.Dock = System.Windows.Forms.DockStyle.Fill
-        Me.Label6.Font = New System.Drawing.Font("Segoe UI", 12.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label6.ForeColor = System.Drawing.Color.White
-        Me.Label6.Location = New System.Drawing.Point(0, 0)
-        Me.Label6.Name = "Label6"
-        Me.Label6.Size = New System.Drawing.Size(87, 23)
-        Me.Label6.TabIndex = 5
-        Me.Label6.Text = "Customer"
-        Me.Label6.TextAlign = System.Drawing.ContentAlignment.MiddleLeft
-        '
         'tblRight
         '
         Me.tblRight.ColumnCount = 1
@@ -781,6 +791,128 @@ Partial Class AddNewInvoice
         Me.tblRight.RowStyles.Add(New System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 50.0!))
         Me.tblRight.Size = New System.Drawing.Size(565, 500)
         Me.tblRight.TabIndex = 1
+        '
+        'panelWatchConDesign
+        '
+        Me.panelWatchConDesign.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle
+        Me.panelWatchConDesign.Controls.Add(Me.tblWatchCon)
+        Me.panelWatchConDesign.Dock = System.Windows.Forms.DockStyle.Fill
+        Me.panelWatchConDesign.Location = New System.Drawing.Point(3, 3)
+        Me.panelWatchConDesign.Name = "panelWatchConDesign"
+        Me.panelWatchConDesign.Size = New System.Drawing.Size(559, 244)
+        Me.panelWatchConDesign.TabIndex = 35
+        '
+        'tblWatchCon
+        '
+        Me.tblWatchCon.ColumnCount = 2
+        Me.tblWatchCon.ColumnStyles.Add(New System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 50.0!))
+        Me.tblWatchCon.ColumnStyles.Add(New System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 50.0!))
+        Me.tblWatchCon.Controls.Add(Me.pcbWatchSketch, 0, 1)
+        Me.tblWatchCon.Controls.Add(Me.tblCondition, 1, 1)
+        Me.tblWatchCon.Controls.Add(Me.panelWatchCondition, 0, 0)
+        Me.tblWatchCon.Dock = System.Windows.Forms.DockStyle.Fill
+        Me.tblWatchCon.Location = New System.Drawing.Point(0, 0)
+        Me.tblWatchCon.Name = "tblWatchCon"
+        Me.tblWatchCon.RowCount = 2
+        Me.tblWatchCon.RowStyles.Add(New System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 10.0!))
+        Me.tblWatchCon.RowStyles.Add(New System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 90.0!))
+        Me.tblWatchCon.Size = New System.Drawing.Size(557, 242)
+        Me.tblWatchCon.TabIndex = 35
+        '
+        'pcbWatchSketch
+        '
+        Me.pcbWatchSketch.Dock = System.Windows.Forms.DockStyle.Fill
+        Me.pcbWatchSketch.Image = CType(resources.GetObject("pcbWatchSketch.Image"), System.Drawing.Image)
+        Me.pcbWatchSketch.Location = New System.Drawing.Point(3, 27)
+        Me.pcbWatchSketch.Name = "pcbWatchSketch"
+        Me.pcbWatchSketch.Size = New System.Drawing.Size(272, 212)
+        Me.pcbWatchSketch.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage
+        Me.pcbWatchSketch.TabIndex = 35
+        Me.pcbWatchSketch.TabStop = False
+        '
+        'tblCondition
+        '
+        Me.tblCondition.ColumnCount = 1
+        Me.tblCondition.ColumnStyles.Add(New System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 100.0!))
+        Me.tblCondition.Controls.Add(Me.lbCondition, 0, 0)
+        Me.tblCondition.Controls.Add(Me.tblConditionButton, 0, 1)
+        Me.tblCondition.Dock = System.Windows.Forms.DockStyle.Fill
+        Me.tblCondition.Location = New System.Drawing.Point(281, 27)
+        Me.tblCondition.Name = "tblCondition"
+        Me.tblCondition.RowCount = 2
+        Me.tblCondition.RowStyles.Add(New System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 80.0!))
+        Me.tblCondition.RowStyles.Add(New System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 20.0!))
+        Me.tblCondition.Size = New System.Drawing.Size(273, 212)
+        Me.tblCondition.TabIndex = 36
+        '
+        'lbCondition
+        '
+        Me.lbCondition.Dock = System.Windows.Forms.DockStyle.Fill
+        Me.lbCondition.Font = New System.Drawing.Font("Arial", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.lbCondition.FormattingEnabled = True
+        Me.lbCondition.ItemHeight = 16
+        Me.lbCondition.Location = New System.Drawing.Point(3, 3)
+        Me.lbCondition.Name = "lbCondition"
+        Me.lbCondition.Size = New System.Drawing.Size(267, 163)
+        Me.lbCondition.TabIndex = 2
+        '
+        'tblConditionButton
+        '
+        Me.tblConditionButton.ColumnCount = 2
+        Me.tblConditionButton.ColumnStyles.Add(New System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 50.0!))
+        Me.tblConditionButton.ColumnStyles.Add(New System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 50.0!))
+        Me.tblConditionButton.Controls.Add(Me.btnClearCon, 1, 0)
+        Me.tblConditionButton.Dock = System.Windows.Forms.DockStyle.Fill
+        Me.tblConditionButton.Location = New System.Drawing.Point(3, 172)
+        Me.tblConditionButton.Name = "tblConditionButton"
+        Me.tblConditionButton.RowCount = 1
+        Me.tblConditionButton.RowStyles.Add(New System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 50.0!))
+        Me.tblConditionButton.Size = New System.Drawing.Size(267, 37)
+        Me.tblConditionButton.TabIndex = 0
+        '
+        'btnClearCon
+        '
+        Me.btnClearCon.Anchor = CType((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
+        Me.btnClearCon.Location = New System.Drawing.Point(173, 3)
+        Me.btnClearCon.Name = "btnClearCon"
+        Me.btnClearCon.Size = New System.Drawing.Size(91, 31)
+        Me.btnClearCon.TabIndex = 0
+        Me.btnClearCon.Text = "Clear"
+        Me.btnClearCon.UseVisualStyleBackColor = True
+        '
+        'panelWatchCondition
+        '
+        Me.panelWatchCondition.BackColor = System.Drawing.Color.FromArgb(CType(CType(0, Byte), Integer), CType(CType(175, Byte), Integer), CType(CType(240, Byte), Integer))
+        Me.tblWatchCon.SetColumnSpan(Me.panelWatchCondition, 2)
+        Me.panelWatchCondition.Controls.Add(Me.Label10)
+        Me.panelWatchCondition.Dock = System.Windows.Forms.DockStyle.Fill
+        Me.panelWatchCondition.Location = New System.Drawing.Point(3, 3)
+        Me.panelWatchCondition.Name = "panelWatchCondition"
+        Me.panelWatchCondition.Size = New System.Drawing.Size(551, 18)
+        Me.panelWatchCondition.TabIndex = 37
+        '
+        'Label10
+        '
+        Me.Label10.AutoSize = True
+        Me.Label10.Dock = System.Windows.Forms.DockStyle.Fill
+        Me.Label10.Font = New System.Drawing.Font("Segoe UI", 12.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label10.ForeColor = System.Drawing.Color.White
+        Me.Label10.Location = New System.Drawing.Point(0, 0)
+        Me.Label10.Name = "Label10"
+        Me.Label10.Size = New System.Drawing.Size(151, 23)
+        Me.Label10.TabIndex = 6
+        Me.Label10.Text = "Watch Conditions"
+        Me.Label10.TextAlign = System.Drawing.ContentAlignment.MiddleLeft
+        '
+        'panelServiceDesign
+        '
+        Me.panelServiceDesign.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle
+        Me.panelServiceDesign.Controls.Add(Me.TableLayoutPanel3)
+        Me.panelServiceDesign.Dock = System.Windows.Forms.DockStyle.Fill
+        Me.panelServiceDesign.Location = New System.Drawing.Point(3, 253)
+        Me.panelServiceDesign.Name = "panelServiceDesign"
+        Me.panelServiceDesign.Size = New System.Drawing.Size(559, 244)
+        Me.panelServiceDesign.TabIndex = 36
         '
         'TableLayoutPanel3
         '
@@ -828,7 +960,7 @@ Partial Class AddNewInvoice
         '
         'Panel2
         '
-        Me.Panel2.BackColor = System.Drawing.Color.FromArgb(CType(CType(153, Byte), Integer), CType(CType(217, Byte), Integer), CType(CType(234, Byte), Integer))
+        Me.Panel2.BackColor = System.Drawing.Color.FromArgb(CType(CType(0, Byte), Integer), CType(CType(175, Byte), Integer), CType(CType(240, Byte), Integer))
         Me.TableLayoutPanel3.SetColumnSpan(Me.Panel2, 2)
         Me.Panel2.Controls.Add(Me.Label12)
         Me.Panel2.Dock = System.Windows.Forms.DockStyle.Fill
@@ -924,7 +1056,7 @@ Partial Class AddNewInvoice
         '
         'tblTopPanel
         '
-        Me.tblTopPanel.BackColor = System.Drawing.Color.FromArgb(CType(CType(95, Byte), Integer), CType(CType(197, Byte), Integer), CType(CType(222, Byte), Integer))
+        Me.tblTopPanel.BackColor = System.Drawing.Color.FromArgb(CType(CType(43, Byte), Integer), CType(CType(171, Byte), Integer), CType(CType(225, Byte), Integer))
         Me.tblTopPanel.ColumnCount = 6
         Me.tblTopPanel.ColumnStyles.Add(New System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 10.001!))
         Me.tblTopPanel.ColumnStyles.Add(New System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 23.33233!))
@@ -1019,138 +1151,6 @@ Partial Class AddNewInvoice
         Me.txtDate.Size = New System.Drawing.Size(184, 29)
         Me.txtDate.TabIndex = 14
         '
-        'panelWatchDesign
-        '
-        Me.panelWatchDesign.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle
-        Me.panelWatchDesign.Controls.Add(Me.tblWatch)
-        Me.panelWatchDesign.Dock = System.Windows.Forms.DockStyle.Fill
-        Me.panelWatchDesign.Location = New System.Drawing.Point(3, 203)
-        Me.panelWatchDesign.Name = "panelWatchDesign"
-        Me.panelWatchDesign.Size = New System.Drawing.Size(454, 294)
-        Me.panelWatchDesign.TabIndex = 32
-        '
-        'panelWatchCondition
-        '
-        Me.panelWatchCondition.BackColor = System.Drawing.Color.FromArgb(CType(CType(153, Byte), Integer), CType(CType(217, Byte), Integer), CType(CType(234, Byte), Integer))
-        Me.tblWatchCon.SetColumnSpan(Me.panelWatchCondition, 2)
-        Me.panelWatchCondition.Controls.Add(Me.Label10)
-        Me.panelWatchCondition.Dock = System.Windows.Forms.DockStyle.Fill
-        Me.panelWatchCondition.Location = New System.Drawing.Point(3, 3)
-        Me.panelWatchCondition.Name = "panelWatchCondition"
-        Me.panelWatchCondition.Size = New System.Drawing.Size(551, 18)
-        Me.panelWatchCondition.TabIndex = 37
-        '
-        'Label10
-        '
-        Me.Label10.AutoSize = True
-        Me.Label10.Dock = System.Windows.Forms.DockStyle.Fill
-        Me.Label10.Font = New System.Drawing.Font("Segoe UI", 12.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label10.ForeColor = System.Drawing.Color.White
-        Me.Label10.Location = New System.Drawing.Point(0, 0)
-        Me.Label10.Name = "Label10"
-        Me.Label10.Size = New System.Drawing.Size(151, 23)
-        Me.Label10.TabIndex = 6
-        Me.Label10.Text = "Watch Conditions"
-        Me.Label10.TextAlign = System.Drawing.ContentAlignment.MiddleLeft
-        '
-        'tblCondition
-        '
-        Me.tblCondition.ColumnCount = 1
-        Me.tblCondition.ColumnStyles.Add(New System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 100.0!))
-        Me.tblCondition.Controls.Add(Me.lbCondition, 0, 0)
-        Me.tblCondition.Controls.Add(Me.tblConditionButton, 0, 1)
-        Me.tblCondition.Dock = System.Windows.Forms.DockStyle.Fill
-        Me.tblCondition.Location = New System.Drawing.Point(281, 27)
-        Me.tblCondition.Name = "tblCondition"
-        Me.tblCondition.RowCount = 2
-        Me.tblCondition.RowStyles.Add(New System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 80.0!))
-        Me.tblCondition.RowStyles.Add(New System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 20.0!))
-        Me.tblCondition.Size = New System.Drawing.Size(273, 212)
-        Me.tblCondition.TabIndex = 36
-        '
-        'tblConditionButton
-        '
-        Me.tblConditionButton.ColumnCount = 2
-        Me.tblConditionButton.ColumnStyles.Add(New System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 50.0!))
-        Me.tblConditionButton.ColumnStyles.Add(New System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 50.0!))
-        Me.tblConditionButton.Controls.Add(Me.btnClearCon, 1, 0)
-        Me.tblConditionButton.Dock = System.Windows.Forms.DockStyle.Fill
-        Me.tblConditionButton.Location = New System.Drawing.Point(3, 172)
-        Me.tblConditionButton.Name = "tblConditionButton"
-        Me.tblConditionButton.RowCount = 1
-        Me.tblConditionButton.RowStyles.Add(New System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 50.0!))
-        Me.tblConditionButton.Size = New System.Drawing.Size(267, 37)
-        Me.tblConditionButton.TabIndex = 0
-        '
-        'btnClearCon
-        '
-        Me.btnClearCon.Anchor = CType((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
-        Me.btnClearCon.Location = New System.Drawing.Point(173, 3)
-        Me.btnClearCon.Name = "btnClearCon"
-        Me.btnClearCon.Size = New System.Drawing.Size(91, 31)
-        Me.btnClearCon.TabIndex = 0
-        Me.btnClearCon.Text = "Clear"
-        Me.btnClearCon.UseVisualStyleBackColor = True
-        '
-        'lbCondition
-        '
-        Me.lbCondition.Dock = System.Windows.Forms.DockStyle.Fill
-        Me.lbCondition.Font = New System.Drawing.Font("Arial", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.lbCondition.FormattingEnabled = True
-        Me.lbCondition.ItemHeight = 16
-        Me.lbCondition.Location = New System.Drawing.Point(3, 3)
-        Me.lbCondition.Name = "lbCondition"
-        Me.lbCondition.Size = New System.Drawing.Size(267, 163)
-        Me.lbCondition.TabIndex = 2
-        '
-        'pcbWatchSketch
-        '
-        Me.pcbWatchSketch.Dock = System.Windows.Forms.DockStyle.Fill
-        Me.pcbWatchSketch.Image = CType(resources.GetObject("pcbWatchSketch.Image"), System.Drawing.Image)
-        Me.pcbWatchSketch.Location = New System.Drawing.Point(3, 27)
-        Me.pcbWatchSketch.Name = "pcbWatchSketch"
-        Me.pcbWatchSketch.Size = New System.Drawing.Size(272, 212)
-        Me.pcbWatchSketch.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage
-        Me.pcbWatchSketch.TabIndex = 35
-        Me.pcbWatchSketch.TabStop = False
-        '
-        'tblWatchCon
-        '
-        Me.tblWatchCon.ColumnCount = 2
-        Me.tblWatchCon.ColumnStyles.Add(New System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 50.0!))
-        Me.tblWatchCon.ColumnStyles.Add(New System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 50.0!))
-        Me.tblWatchCon.Controls.Add(Me.pcbWatchSketch, 0, 1)
-        Me.tblWatchCon.Controls.Add(Me.tblCondition, 1, 1)
-        Me.tblWatchCon.Controls.Add(Me.panelWatchCondition, 0, 0)
-        Me.tblWatchCon.Dock = System.Windows.Forms.DockStyle.Fill
-        Me.tblWatchCon.Location = New System.Drawing.Point(0, 0)
-        Me.tblWatchCon.Name = "tblWatchCon"
-        Me.tblWatchCon.RowCount = 2
-        Me.tblWatchCon.RowStyles.Add(New System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 10.0!))
-        Me.tblWatchCon.RowStyles.Add(New System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 90.0!))
-        Me.tblWatchCon.Size = New System.Drawing.Size(557, 242)
-        Me.tblWatchCon.TabIndex = 35
-        '
-        'panelWatchConDesign
-        '
-        Me.panelWatchConDesign.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle
-        Me.panelWatchConDesign.Controls.Add(Me.tblWatchCon)
-        Me.panelWatchConDesign.Dock = System.Windows.Forms.DockStyle.Fill
-        Me.panelWatchConDesign.Location = New System.Drawing.Point(3, 3)
-        Me.panelWatchConDesign.Name = "panelWatchConDesign"
-        Me.panelWatchConDesign.Size = New System.Drawing.Size(559, 244)
-        Me.panelWatchConDesign.TabIndex = 35
-        '
-        'panelServiceDesign
-        '
-        Me.panelServiceDesign.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle
-        Me.panelServiceDesign.Controls.Add(Me.TableLayoutPanel3)
-        Me.panelServiceDesign.Dock = System.Windows.Forms.DockStyle.Fill
-        Me.panelServiceDesign.Location = New System.Drawing.Point(3, 253)
-        Me.panelServiceDesign.Name = "panelServiceDesign"
-        Me.panelServiceDesign.Size = New System.Drawing.Size(559, 244)
-        Me.panelServiceDesign.TabIndex = 36
-        '
         'AddNewInvoice
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
@@ -1184,6 +1184,12 @@ Partial Class AddNewInvoice
         Me.tblBody.ResumeLayout(False)
         Me.tblBody.PerformLayout()
         Me.tblLeft.ResumeLayout(False)
+        Me.CustDesignPanel.ResumeLayout(False)
+        Me.tblCustomer.ResumeLayout(False)
+        Me.tblCustomer.PerformLayout()
+        Me.panelCustomer.ResumeLayout(False)
+        Me.panelCustomer.PerformLayout()
+        Me.panelWatchDesign.ResumeLayout(False)
         Me.tblWatch.ResumeLayout(False)
         Me.tblWatchDetail.ResumeLayout(False)
         Me.tblWatchDetail.PerformLayout()
@@ -1192,12 +1198,15 @@ Partial Class AddNewInvoice
         Me.panelWatch.ResumeLayout(False)
         Me.panelWatch.PerformLayout()
         Me.tblWatchMoreDetail.ResumeLayout(False)
-        Me.CustDesignPanel.ResumeLayout(False)
-        Me.tblCustomer.ResumeLayout(False)
-        Me.tblCustomer.PerformLayout()
-        Me.panelCustomer.ResumeLayout(False)
-        Me.panelCustomer.PerformLayout()
         Me.tblRight.ResumeLayout(False)
+        Me.panelWatchConDesign.ResumeLayout(False)
+        Me.tblWatchCon.ResumeLayout(False)
+        CType(Me.pcbWatchSketch, System.ComponentModel.ISupportInitialize).EndInit()
+        Me.tblCondition.ResumeLayout(False)
+        Me.tblConditionButton.ResumeLayout(False)
+        Me.panelWatchCondition.ResumeLayout(False)
+        Me.panelWatchCondition.PerformLayout()
+        Me.panelServiceDesign.ResumeLayout(False)
         Me.TableLayoutPanel3.ResumeLayout(False)
         Me.TableLayoutPanel3.PerformLayout()
         Me.Panel2.ResumeLayout(False)
@@ -1206,15 +1215,6 @@ Partial Class AddNewInvoice
         Me.topPanel.ResumeLayout(False)
         Me.tblTopPanel.ResumeLayout(False)
         Me.tblTopPanel.PerformLayout()
-        Me.panelWatchDesign.ResumeLayout(False)
-        Me.panelWatchCondition.ResumeLayout(False)
-        Me.panelWatchCondition.PerformLayout()
-        Me.tblCondition.ResumeLayout(False)
-        Me.tblConditionButton.ResumeLayout(False)
-        CType(Me.pcbWatchSketch, System.ComponentModel.ISupportInitialize).EndInit()
-        Me.tblWatchCon.ResumeLayout(False)
-        Me.panelWatchConDesign.ResumeLayout(False)
-        Me.panelServiceDesign.ResumeLayout(False)
         Me.ResumeLayout(False)
 
     End Sub
